@@ -1,0 +1,22 @@
+{
+  "name": "cypressbase",
+  "version": "1.0.0",
+  "description": "Typical Cypress framework in typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vacobuilt/CypressBase.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vacobuilt/CypressBase/issues"
+  },
+  "homepage": "https://github.com/vacobuilt/CypressBase#readme",
+  "dependencies": {
+    "cypress": "^10.9.0"
+  }
+}
